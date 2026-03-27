@@ -1,0 +1,1 @@
+"# qt-training-intermediate" 

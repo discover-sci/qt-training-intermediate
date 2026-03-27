@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bugs-bunny-hold-up-doc.gif</file>
+    </qresource>
+</RCC>

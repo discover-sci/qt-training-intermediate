@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/quitIcon.png</file>
+    </qresource>
+    <qresource prefix="/edit">
+        <file>images/copyIcon.png</file>
+        <file>images/cutIcon.png</file>
+        <file>images/pasteIcon.png</file>
+        <file>images/redoIcon.png</file>
+        <file>images/undoIcon.png</file>
+    </qresource>
+    <qresource prefix="/help">
+        <file>images/aboutIcon.png</file>
+        <file>images/aboutQtIcon.png</file>
+    </qresource>
+    <qresource prefix="/moving">
+        <file>images/bugs-bunny-hold-up-doc.gif</file>
+    </qresource>
+</RCC>
